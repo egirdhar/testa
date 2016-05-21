@@ -15,6 +15,9 @@
 
       private int getId(){
          return id;
+      String getName() {
+      
+      return name;
       }
 
      } 
