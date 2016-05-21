@@ -13,4 +13,9 @@
       
       }
 
+      String getName() {
+      
+      return name;
+      }
+
      } 
