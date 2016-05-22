@@ -23,3 +23,6 @@
        Test(String s ) {}
 
      } 
+     }
+
+     private Test() {}
