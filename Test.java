@@ -20,6 +20,6 @@
       return name;
       }
 
-      private Test(String s ) {}
+       Test(String s ) {}
 
      } 
